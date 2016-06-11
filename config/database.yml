@@ -29,6 +29,7 @@ development:
   username: bodorrioapp
   password: 17092016
 
+
   
 test:
   <<: *default
@@ -36,6 +37,8 @@ test:
   pool: 5
   username: bodorrioapp
   password: 17092016
+  host: localhost
+
 
 production:
   <<: *default
