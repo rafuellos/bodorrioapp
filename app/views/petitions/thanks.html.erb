@@ -1,0 +1,41 @@
+<div class="row">
+        <div class="col-md-12 image-column"><img src="/img/unsplash-kitsune-4.jpg" class="music-section"></div>
+    </div>
+    <div class="container music-list">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="jumbotron message-thanks">
+                    <h1 class="thanks">¡Gracias! <%= @petition.name %></h1>
+                    <p class="thanks-text">, hemos añadido</p>
+                    <p class="thanks"><%= @petition.description %></p>
+                    <p class="thanks-text">a la lista de canciones que cantaremos y bailaremos juntos. </p>
+                    <%= link_to 'Añade otra canción', "#{home_path}#dj", :class =>"btn btn-default back-to-form" %>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="panel-group" role="tablist" aria-multiselectable="true" id="accordion-1"></div>
+        <div class="panel-group" role="tablist" aria-multiselectable="true" id="accordion-2">
+            <div class="panel panel-default">
+                <div class="panel-heading" role="tab">
+                    <h4 class="panel-title">Aquí puedes ver las canciones que ya han añadido otros invitados:</h4></div>
+                <div class="panel-collapse in collapse item-1" role="tabpanel">
+                    <div class="panel-body panel-music-list">
+                        
+                        <ul>
+                            <% @petitions.each do |p| %>
+
+                              <li><%= p.description %></li>
+                            
+                            <% end %>
+
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a href="home" class="top-logo"><img src="/img/logo-brand.png" width="5%" class="logo"></a>
+

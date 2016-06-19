@@ -1,0 +1,396 @@
+input#petition_name, input#petition_description{
+
+  box-shadow: inset 0 -2px 0 #855D68;
+}
+
+input.btn.btn-primary.boton-enviar-musica{
+  box-shadow: inset 0 0;
+  background-color: #855D68;
+  margin: 0 40%;
+
+}
+
+nav.navbar.navbar-default.navigation {
+    box-shadow: 0 0 0;
+}
+
+.col-md-12.confirma{
+  font-family: 'Kalam';
+  font-size: 25px;
+  color: #855D68;
+
+}
+
+.breadcrumb{
+  text-align:center;
+  background-color:transparent;
+  border-bottom:1px solid #eee;
+  padding-top:12px;
+  padding-bottom:12px;
+  margin-bottom:40px;
+}
+
+nav.navbar.navbar-default{
+  margin-bottom:0px;
+  font-size:20px;
+  margin-top:10px;
+  border:0;
+}
+
+@media (min-width:992px) {
+  .product h2{
+    margin-top:0;
+  }
+}
+
+.navbar .navbar-brand{
+  font-size:24px;
+  line-height:18px;
+}
+
+.reviewer-name{
+  margin-right:10px;
+}
+
+.site-footer{
+  padding:20px 0;
+  text-align:center;
+}
+
+div.col-md-12.logo-boda{
+  text-align:center;
+  margin-bottom:25px;
+}
+
+img.image-ceremony{
+  overflow:hidden;
+}
+
+div.col-md-12.seccion-image{
+  text-align:center;
+}
+
+p.text-uppercase.bg-info{
+}
+
+p.text-uppercase.bg-info.seccion-title{
+  text-align:center;
+  font-family:'Kalam';
+  font-size:45px;
+  color:white;
+  background-color:#855D68;
+  margin:20px 0;
+  padding:10px 0 20px 0;
+}
+
+p.seccion-paragraph{
+  font-family:'Kalam';
+  font-size:25px;
+  text-align:center;
+  margin-top:20px;
+}
+
+div.col-md-12.logo-boda{
+  text-align:center;
+}
+
+a.navbar-brand.navbar-link.page-brand{
+  color:#4f373e;
+  font-size:40px;
+  padding-right:80px;
+}
+
+img.logo-bodorrio{
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+
+
+@media (min-width:768px) {
+  .site-footer h5{
+    text-align:left;
+  }
+}
+
+.site-footer h5{
+  color:inherit;
+  font-size:16px;
+}
+
+.site-footer .social-icons a:hover{
+  opacity:1;
+}
+
+.site-footer .social-icons a{
+  display:inline-block;
+  width:32px;
+  border:none;
+  font-size:20px;
+  border-radius:50%;
+  margin:4px;
+  color:#fff;
+  text-align:center;
+  background-color:#798FA5;
+  height:32px;
+  opacity:0.8;
+  line-height:32px;
+}
+
+@media (min-width:768px) {
+  .site-footer .social-icons{
+    text-align:right;
+  }
+}
+
+.btn.write-review{
+  float:right;
+  margin-top:-6px;
+}
+
+texts{
+}
+
+texts{
+  font-style:K26AlphaCasual;
+}
+
+textos{
+  font-style:Kalam;
+}
+
+textos{
+  font-family:'Kalam';
+}
+
+p.lead{
+  font-family:'Kalam';
+}
+
+a{
+  font-family:'Kalam';
+}
+
+nav.navbar{
+}
+
+navigation{
+  color:#73eee3;
+}
+
+p.lead.photo-description{
+  text-align:center;
+  color:white;
+}
+
+img.logo{
+  position:fixed;
+  text-align:right;
+  top:15px;
+  right:25px;
+}
+
+div.col-md-12.logo-boda{
+  top:50px;
+  padding-bottom:30px;
+}
+
+body{
+}
+
+html{
+  color:#4f373e;
+}
+
+a.navbar-links{
+  color:#4f373e;
+}
+
+a.navbar-links{
+  color:#4f373e;
+}
+
+li{
+  color:#4f373e;
+}
+
+div.col-md-12.text-seccion{
+  text-align:center;
+}
+
+div.col-md-12.navigation-column{
+  background-color:white;
+  position:fixed;
+}
+
+a.top-logo{
+  top:5px;
+  right:15px;
+  position:absolute;
+}
+
+div.col-md-12{
+  text-align:center;
+}
+
+div.col-md-12.icons{
+  margin-top:10px;
+}
+
+img.icons-seccion{
+  margin:0 25px;
+}
+
+div.col-md-12.icons{
+}
+
+div.col-md-12.seccion-end{
+  margin-bottom:20px;
+}
+
+h2.text-center.seccion-title{
+  font-family:'Kalam';
+}
+
+img.seccion-music{
+  margin-bottom:20px;
+}
+
+button.btn.btn-primary.boton-enviar-musica{
+}
+
+div.form-group.has-warning{
+}
+
+div.form-group.has-warning.boton-enviar-musica{
+}
+
+div.form-group.has-warning.boton-enviar-musica{
+  text-align:center;
+}
+
+input#text-input.form-control.form-field{
+  border-color:#855D68;
+  font-family:'Kalam';
+}
+
+label.control-label.form-text{
+  color:#855D68;
+  font-family:'Kalam';
+  font-size:20px;
+}
+
+textarea#textarea-input.form-control.form-field{
+  border-color:#855D68;
+  font-family:'Kalam';
+}
+
+button.btn.btn-primary.boton-enviar-musica{
+  border-color:#855D68;
+  background-color:#855D68;
+  font-family:'Kalam';
+  font-size:20px;
+}
+
+h2.text-center.seccion-title{
+  background-color:#855D68;
+}
+
+h2.text-center.seccion-title.music-section{
+  color:white;
+  font-size:40px;
+}
+
+h2.text-center.music-section{
+  font-family:'Kalam';
+  font-size:35px;
+  color:white;
+  background-color:#855D68;
+  padding-bottom:10px;
+}
+
+p.seccion-paragraph.music-section{
+  font-size:20px;
+}
+
+p.seccion-title{
+  font-family:'Kalam';
+  font-size:40px;
+  text-align:center;
+  color:white;
+  background-image:"photo-1456858060761-fd3f80c5aca0.jpg";
+}
+
+div.row.foto-section{
+  background-color:#855D68;
+  margin:10px -10px;
+}
+
+h2.text-center.music-section{
+  margin:0 -10px;
+}
+
+p.text-uppercase.bg-info.seccion-title{
+  margin:20px -300px;
+}
+
+p.text-uppercase.bg-info.seccion-title{
+  margin:20px -30px;
+}
+
+div.container.fotos-container{
+  margin-bottom:20px;
+}
+
+div.container.foto-section{
+  width:100%;
+}
+
+div.col-md-12.logo-boda{
+  text-align:center;
+  margin-bottom:25px;
+}
+
+img.image-ceremony{
+  overflow:hidden;
+}
+
+div.col-md-12.seccion-image{
+  text-align:center;
+}
+
+p.text-uppercase.bg-info{
+}
+
+p.text-uppercase.bg-info.seccion-title{
+  text-align:center;
+  font-family:'Kalam';
+  font-size:45px;
+  color:white;
+  background-color:#855D68;
+  margin:20px 0;
+  padding:10px 0 20px 0;
+}
+
+p.seccion-paragraph{
+  font-family:'Kalam';
+  font-size:25px;
+  text-align:center;
+  margin-top:20px;
+}
+
+div.col-md-12.logo-boda{
+  text-align:center;
+}
+
+a.navbar-brand.navbar-link.page-brand{
+  color:#4f373e;
+  font-size:40px;
+  padding-right:80px;
+}
+
+img.logo-bodorrio{
+  padding-top:50px;
+  padding-bottom:50px;
+}
+

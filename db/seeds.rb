@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Petition.create(name: 'Rafa', description: 'El vals de Mozart')
+Petition.create(name: 'Carol', description: 'El chiquichiqui')
+Petition.create(name: 'Carla', description: 'Picky picky picky')

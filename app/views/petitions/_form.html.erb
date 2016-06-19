@@ -1,0 +1,16 @@
+
+
+
+<%= form_for @petition, :html => {:class => "form-group bootstrap-form has-success has-feedback", :method => :post}, :url=> {:action => "create"} do |p| %>
+    <%= p.label :name, 'Tu nombre' , :class => "control-label form-text"  %>
+    <%= p.text_field :name, :class => "form-control input-lg form-field pregunta" %>   
+    
+    <%= p.label :description, '¿Qué canción quieres?', :class => "control-label form-text" %>
+    <%= p.text_field :description, :class => "form-control input-lg form-field pregunta" %>    
+    <br>
+    <br>
+
+    <%= p.submit "¡la apuntamos!", :class =>"btn btn-primary boton-enviar-musica" %>
+
+<% end %>
+
