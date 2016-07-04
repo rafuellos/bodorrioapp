@@ -103,10 +103,12 @@ a.navbar-brand.navbar-link.page-brand{
 img.logo-bodorrio{
   padding-top:0px;
   padding-bottom:0px;
-  margin-top:-40px;
+  margin-top:-40px  ;
 }
 
-
+img.logoby {
+    margin: 10px 0;
+}
 
 @media (min-width:768px) {
   .site-footer h5{
