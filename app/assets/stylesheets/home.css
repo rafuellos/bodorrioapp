@@ -101,8 +101,9 @@ a.navbar-brand.navbar-link.page-brand{
 }
 
 img.logo-bodorrio{
-  padding-top:50px;
-  padding-bottom:50px;
+  padding-top:0px;
+  padding-bottom:0px;
+  margin-top:-40px;
 }
 
 
@@ -389,8 +390,5 @@ a.navbar-brand.navbar-link.page-brand{
   padding-right:80px;
 }
 
-img.logo-bodorrio{
-  padding-top:50px;
-  padding-bottom:50px;
-}
+
 
